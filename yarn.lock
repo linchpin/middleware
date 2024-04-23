@@ -1773,7 +1773,7 @@ __metadata:
   resolution: "@hono/arktype-validator@workspace:packages/arktype-validator"
   dependencies:
     arktype: "npm:^1.0.28-alpha"
-    hono: "npm:^3.11.7"
+    hono: "npm:^4.2.7"
     tsup: "npm:^8.0.1"
     vitest: "npm:^1.0.4"
   peerDependencies:
@@ -1788,7 +1788,7 @@ __metadata:
   dependencies:
     "@auth/core": "npm:^0.24.0"
     "@types/react": "npm:^18"
-    hono: "npm:^3.11.7"
+    hono: "npm:^4.2.7"
     jest: "npm:^29.7.0"
     react: "npm:^18.2.0"
     tsup: "npm:^8.0.1"
@@ -1806,7 +1806,7 @@ __metadata:
   resolution: "@hono/bun-transpiler@workspace:packages/bun-transpiler"
   dependencies:
     "@types/bun": "npm:^1.0.0"
-    hono: "npm:^3.11.7"
+    hono: "npm:^4.2.7"
     tsup: "npm:^8.0.1"
     vitest: "npm:^1.0.4"
   peerDependencies:
@@ -1820,7 +1820,7 @@ __metadata:
   dependencies:
     "@clerk/backend": "npm:^0.30.1"
     "@types/react": "npm:^18"
-    hono: "npm:^3.11.7"
+    hono: "npm:^4.2.7"
     jest: "npm:^29.7.0"
     node-fetch-native: "npm:^1.4.0"
     react: "npm:^18.2.0"
@@ -1837,7 +1837,7 @@ __metadata:
   dependencies:
     esbuild: "npm:^0.19.9"
     esbuild-wasm: "npm:^0.19.5"
-    hono: "npm:^3.11.7"
+    hono: "npm:^4.2.7"
     tsup: "npm:^8.0.1"
     vitest: "npm:^0.34.6"
   peerDependencies:
@@ -1917,7 +1917,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@hono/hello@workspace:packages/hello"
   dependencies:
-    hono: "npm:^3.11.7"
+    hono: "npm:^4.2.7"
     tsup: "npm:^8.0.1"
     vitest: "npm:^1.0.4"
   peerDependencies:
@@ -1930,7 +1930,7 @@ __metadata:
   resolution: "@hono/medley-router@workspace:packages/medley-router"
   dependencies:
     "@medley/router": "npm:^0.2.1"
-    hono: "npm:^3.11.7"
+    hono: "npm:^4.2.7"
     jest: "npm:^29.7.0"
     rimraf: "npm:^5.0.5"
   peerDependencies:
@@ -1944,7 +1944,7 @@ __metadata:
   dependencies:
     "@cloudflare/workers-types": "npm:^4.20231025.0"
     "@types/jest": "npm:^29.5.7"
-    hono: "npm:^3.11.7"
+    hono: "npm:^4.2.7"
     jest: "npm:^29.7.0"
     jest-environment-miniflare: "npm:^2.14.1"
     msw: "npm:^2.0.11"
@@ -1996,7 +1996,7 @@ __metadata:
   dependencies:
     "@builder.io/qwik": "npm:^1.2.0"
     "@builder.io/qwik-city": "npm:^1.2.0"
-    hono: "npm:^3.11.7"
+    hono: "npm:^4.2.7"
     rimraf: "npm:^5.0.5"
   peerDependencies:
     "@builder.io/qwik": ^1.2.0
@@ -2013,7 +2013,7 @@ __metadata:
     "@types/react": "npm:^18"
     "@types/react-dom": "npm:^18.2.17"
     esbuild: "npm:^0.20.2"
-    hono: "npm:^3.11.7"
+    hono: "npm:^4.2.7"
     react: "npm:^18.2.0"
     react-dom: "npm:^18.2.0"
     tsup: "npm:^8.0.1"
@@ -2039,7 +2039,7 @@ __metadata:
     eslint-plugin-flowtype: "npm:^8.0.3"
     eslint-plugin-import: "npm:^2.26.0"
     eslint-plugin-node: "npm:^11.1.0"
-    hono: "npm:^3.11.7"
+    hono: "npm:^4.2.7"
     jest: "npm:^28.1.2"
     jest-environment-miniflare: "npm:^2.6.0"
     np: "npm:^7.6.2"
@@ -2058,7 +2058,7 @@ __metadata:
   resolution: "@hono/swagger-ui@workspace:packages/swagger-ui"
   dependencies:
     "@types/swagger-ui-dist": "npm:^3.30.3"
-    hono: "npm:^3.11.7"
+    hono: "npm:^4.2.7"
     publint: "npm:^0.2.2"
     tsup: "npm:^7.2.0"
     vite: "npm:^4.4.9"
@@ -2073,7 +2073,7 @@ __metadata:
   resolution: "@hono/trpc-server@workspace:packages/trpc-server"
   dependencies:
     "@trpc/server": "npm:^10.10.0"
-    hono: "npm:^3.11.7"
+    hono: "npm:^4.2.7"
     jest: "npm:^29.7.0"
     rimraf: "npm:^5.0.5"
     zod: "npm:^3.20.2"
@@ -2088,7 +2088,7 @@ __metadata:
   resolution: "@hono/typebox-validator@workspace:packages/typebox-validator"
   dependencies:
     "@sinclair/typebox": "npm:^0.31.15"
-    hono: "npm:^3.11.7"
+    hono: "npm:^4.2.7"
     jest: "npm:^29.7.0"
     rimraf: "npm:^5.0.5"
   peerDependencies:
@@ -2101,7 +2101,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@hono/typia-validator@workspace:packages/typia-validator"
   dependencies:
-    hono: "npm:^3.11.7"
+    hono: "npm:^4.2.7"
     jest: "npm:^29.7.0"
     rimraf: "npm:^5.0.5"
     typia: "npm:^5.0.4"
@@ -2115,7 +2115,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@hono/valibot-validator@workspace:packages/valibot-validator"
   dependencies:
-    hono: "npm:^3.11.7"
+    hono: "npm:^4.2.7"
     jest: "npm:^29.7.0"
     rimraf: "npm:^5.0.5"
     valibot: "npm:^0.24.1"
@@ -9619,13 +9619,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"hono@npm:^3.11.7":
-  version: 3.11.7
-  resolution: "hono@npm:3.11.7"
-  checksum: 6665e26801cb4c4334e09dbb42453bf40e1daae9a44bf9a1ed22815f6cb701c0d9ac1a4452624234f36093996c8afff0a41d2d5b52a77f4f460178be48e022bf
-  languageName: node
-  linkType: hard
-
 "hono@npm:^3.12.0":
   version: 3.12.10
   resolution: "hono@npm:3.12.10"
@@ -9658,6 +9651,13 @@ __metadata:
   version: 4.2.2
   resolution: "hono@npm:4.2.2"
   checksum: 4f423ff808c105341d2802192abe9070c5f6fc4a45da51842a5f5f2111b4c333ef4aea2720a585e16996944cc0cedf68657c57df1d150f1382f21fc18e814b42
+  languageName: node
+  linkType: hard
+
+"hono@npm:^4.2.7":
+  version: 4.2.7
+  resolution: "hono@npm:4.2.7"
+  checksum: 186d79ecedd4d9091eae4f2f32462f7e44530d1ea545de2cba594fd3f1e733f6f1d4367f12a6c85d188610ce1913bedadd1a83724b533700c0b12f5dcbb24f97
   languageName: node
   linkType: hard
 
