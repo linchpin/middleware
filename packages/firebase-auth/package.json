@@ -49,7 +49,7 @@
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20240222.0",
-    "firebase-tools": "^13.3.1",
+    "firebase-tools": "^13.6.0",
     "hono": "3.12.12",
     "miniflare": "^3.20240208.0",
     "prettier": "^3.2.5",
