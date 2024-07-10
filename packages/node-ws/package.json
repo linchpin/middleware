@@ -39,7 +39,7 @@
     "vitest": "^1.0.4"
   },
   "dependencies": {
-    "ws": "^8.17.0"
+    "ws": "^8.17.1"
   },
   "peerDependencies": {
     "@hono/node-server": "^1.11.1"
